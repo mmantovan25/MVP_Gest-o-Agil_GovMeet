@@ -1,6 +1,7 @@
 
-# MVP_Gest-o-Agil_GovMeet
-MVP da Sprint Gestão Ágil de Projetos e Produtos - Puc Rio - Julho 26
+# MVP_Gest-o-Agil_GovMeet#
+
+#MVP da Sprint Gestão Ágil de Projetos e Produtos - Puc Rio - Julho 26
 Esse repositório apresenta todos os arquivos para a construção do software GovMeet TIC - que faz a gestãod e pauta para o CIO e seus executivos. 
 O diretório contém os seguintes exemplos:
 
