@@ -16,4 +16,4 @@ Vídeo de Apresentação
 
 https://github.com/mmantovan25/MVP_Gest-o-Agil_GovMeet
 LeanInception: https://miro.com/app/board/uXjVHB5Af6k=/?share_link_id=989980912583
-FIGMA: https://www.figma.com/design/nBv9Euiv0pE4PpajI8GXwY/GovMeet-TIC-%E2%80%94-Wireframes-Sprint-1?node-id=2-2&t=UbQ6dn6UPOc3TxWo-1
+FIGMA: https://www.figma.com/design/nBv9Euiv0pE4PpajI8GXwY/GovMeet-TIC-%E2%80%94-Wireframes-Sprint-1?node-id=2-2&t=UbQ6dn6UPOc3TxWo-1#
