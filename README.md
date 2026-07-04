@@ -5,12 +5,13 @@
 Esse repositório apresenta todos os arquivos para a construção do software GovMeet TIC - que faz a gestão de pauta para o CIO e seus executivos.
 
 O diretório contém os seguintes artefatos:
-Arquivo README.md com todos os links necessarios
-Diretório do wireframe do protótipo de interface do GovMeet TIC - Frame 1 a 5 e Visáo Geral.
-PDF com backlog do produto e da sprint - Definition of Ready e Definition of Done
+
+Arquivo README.md com todos os links necessarios;
+Diretório do wireframe do protótipo de interface do GovMeet TIC - Frame 1 a 5 e Visáo Geral;
+PDF com backlog do produto e da sprint - Definition of Ready e Definition of Done;
 ⁠Lean Inception detalhada no Miro, incluindo o MVP Canvas
 
-https://github.com/mmantovan25/MVP_Gest-o-Agil_GovMeet
+GitHub: https://github.com/mmantovan25/MVP_Gest-o-Agil_GovMeet
 
 LeanInception: https://miro.com/app/board/uXjVHB5Af6k=/?share_link_id=989980912583
 
