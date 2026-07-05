@@ -14,7 +14,7 @@ PDF com backlog do produto e da sprint - Definition of Ready e Definition of Don
 
 ⁠Lean Inception detalhada no Miro, incluindo o MVP Canvas
 
-GitHub: https://github.com/mmantovan25/MVP_Gest-o-Agil_GovMeet
+GitHub: https://github.com/mmantovan25/MVP_Gest-o-Agil_GovMeet 
 
 LeanInception: https://miro.com/app/board/uXjVHB5Af6k=/?share_link_id=989980912583
 
